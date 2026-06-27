@@ -1,3 +1,4 @@
 fd36:62be:ef51:3::1,COWGL-MNT
 fd42:23eb:6cf::167,SESS-MNT
+fdde:c0de:925::1,YUETAU-MNT
 fdef:fa9b:62b:f102::1,NEDIFINITA-MNT
